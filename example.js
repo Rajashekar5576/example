@@ -10,6 +10,9 @@ console.log(greet1);
 var greet2 = greet("Aditya");
 console.log(greet2);
 
+var greet3 = greet("Ajay");
+console.log(greet3)
+
 
 
 
